@@ -10,13 +10,14 @@ Web Developer | JavaScript | React | UX/UI | Freelance Thai Language Teacher @ T
 
 <div>
   
-  💻 I specialize in front-end development, using HTML, CSS, and JavaScript to bring ideas to life. I love crafting clean and efficient code that creates seamless user interfaces.
+ 💻 Front-end developer specializing in HTML, CSS, and JavaScript. Passionate about creating clean code and seamless user interfaces.
 
-  🌱 I'm constantly learning and exploring new technologies to enhance my skills and stay up to date with the latest trends in web development. I enjoy working with frameworks like React to create dynamic and responsive applications.
+🌱 Constantly learning and exploring new technologies, with a focus on React and responsive web development.
 
-  🚀 Beyond coding, I have a keen eye for design and strive to create visually appealing websites that deliver exceptional user experiences. I believe that good design is an integral part of effective web development.
-  
-  🌍 Let's connect and collaborate on exciting projects. I'm always open to new opportunities and challenges. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/parichat-rodprasert/) to discuss potential collaborations or just say hello!
+🚀 Design-driven mindset, striving to deliver visually appealing websites and exceptional user experiences.
+
+🌍 Let's connect and collaborate on exciting projects. Open to new opportunities and challenges. Reach out on LinkedIn!
+
 
 </div>
 
